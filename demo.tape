@@ -1,22 +1,23 @@
 Output demo.gif
-Set FontSize 26
-Set Width 1200
-Set Height 600
+Set FontSize 22
+Set Width 1600
+Set Height 1200
 
 
 # Setup
 Hide
 Type "go build -o example . && clear"
 Enter
+Type './example'
+Enter
 Show
 
 # Recording...
-Type './example'
-
 Sleep 1s
-Down
-Down
+Down 1
 Sleep 1s
+Down 1
+Sleep 3s
 
 Enter
 
