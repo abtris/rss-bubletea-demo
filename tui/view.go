@@ -9,10 +9,17 @@ import (
 func (m model) View() string {
 	var s string
 	if len(m.choice) > 0 {
-		s += m.choice
+		s += "## " + m.choice
 		s += "\n\n"
 		s += m.content
-		out, err := glamour.Render(s, "dark")
+		renderer, err := glamour.NewTermRenderer(
+			glamour.WithAutoStyle(),
+			glamour.WithWordWrap(width),
+		)
+		if err != nil {
+			return ""
+		}
+		out, err := renderer.Render(s)
 		if err != nil {
 			log.Println(err)
 		}

@@ -16,6 +16,9 @@ type model struct {
 	quitting bool
 }
 
+const width = 80
+const height = 40
+
 func NewModel(data *gofeed.Feed) (*model, error) {
 	var items []list.Item
 	converter := md.NewConverter("", true, nil)
@@ -26,11 +29,10 @@ func NewModel(data *gofeed.Feed) (*model, error) {
 		}
 		i := item{
 			title: rssItem.Title,
-			desc:  markdown,
+			desc:  "Published at " + rssItem.Published + "\n\n" + markdown,
 		}
 		items = append(items, i)
 	}
-	width, height := 80, 40
 	l := list.New(items, list.NewDefaultDelegate(), width, height)
 	l.Title = "RSS Reader"
 
