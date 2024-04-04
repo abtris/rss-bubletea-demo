@@ -8,11 +8,10 @@ import (
 	"github.com/mmcdole/gofeed"
 )
 
-type state int
-
 type model struct {
 	list     list.Model
 	choice   string
+	content  string
 	quitting bool
 }
 
