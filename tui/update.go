@@ -21,6 +21,7 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		case "enter":
 			i, ok := m.list.SelectedItem().(item)
 			if ok {
+				m.detail = true
 				m.choice = string(i.title)
 				m.content = string(i.desc)
 				log.Printf("Selected item: %v", m.choice)
@@ -29,6 +30,8 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 	}
 
 	var cmd tea.Cmd
-	m.list, cmd = m.list.Update(msg)
+	if !m.detail {
+		m.list, cmd = m.list.Update(msg)
+	}
 	return m, cmd
 }

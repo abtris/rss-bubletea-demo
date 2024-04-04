@@ -12,6 +12,7 @@ type model struct {
 	list     list.Model
 	choice   string
 	content  string
+	detail   bool
 	quitting bool
 }
 
@@ -21,7 +22,7 @@ func NewModel(data *gofeed.Feed) (*model, error) {
 	for _, rssItem := range data.Items {
 		markdown, err := converter.ConvertString(rssItem.Description)
 		if err != nil {
-			log.Printf("Convert to markdown", err)
+			log.Println("Convert to markdown", err)
 		}
 		i := item{
 			title: rssItem.Title,
@@ -34,6 +35,9 @@ func NewModel(data *gofeed.Feed) (*model, error) {
 	l.Title = "RSS Reader"
 
 	return &model{
-		list: l,
+		list:    l,
+		choice:  "",
+		content: "",
+		detail:  false,
 	}, nil
 }
