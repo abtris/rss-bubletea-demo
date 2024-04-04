@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[YBYR Podcast]]></title>
+		<description><![CDATA["You build it, you run it" je zásada vývoje softwaru, která zdůrazňuje odpovědnost vývojového týmu při navrhování, budování a údržbě systémů, které vytváří.
+Sledujte nás taky na Mastodonu <a href="https://mastodonczech.cz/@ybyr" target="_blank">@ybyr@mastodonczech.cz</a>]]></description>
+		<link>https://ybyr.net/</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg</url>
+			<title>YBYR Podcast</title>
+			<link>https://ybyr.net/</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 02 Jan 2024 06:33:42 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/465b1198/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></author>
+		<copyright><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></copyright>
+		<language><![CDATA[cs]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Ladislav Prskavec a Vilibald Wanča</itunes:author>
+		<itunes:summary>&quot;You build it, you run it&quot; je zásada vývoje softwaru, která zdůrazňuje odpovědnost vývojového týmu při navrhování, budování a údržbě systémů, které vytváří.
+Sledujte nás taky na Mastodonu &lt;a href=&quot;https://mastodonczech.cz/@ybyr&quot; target=&quot;_blank&quot;&gt;@ybyr@mastodonczech.cz&lt;/a&gt;</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Ladislav Prskavec a Vilibald Wanča</itunes:name>
+			<itunes:email>ybyr@prskavec.net</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+		<item>
+			<title><![CDATA[10 - S Lukášem Linhartem o Scrumu]]></title>
+			<description><![CDATA[<p>Vítejte u poslechu podcastu “You Build It You Run It”. Podcast o všem co potřebujete vědět když chcete provozovat globální internetovou službu. Dnešní díl je speciální, protože kromě mě, Vildy, a Láďi, na které jste zvyklí se k nám přidá host. Tím je náš kamarád Lukáš Linhart neboli Almad. Almad byl prvním zaměstnancem Apiary, zastával tam funkci CTO a hlavně nás najal. Má zkušenosti s vývojem, vedením projektů i se zodpovědností za produkt jako takový a hodně se zabývá produktivitou týmů. Právě s Almadem se budeme bavit o SCRUMu.</p>
+<ul>
+ <li><p>Agile manifesto - <a href="https://agilemanifesto.org/">https://agilemanifesto.org/</a></p>
+</li>
+ <li><p>Scrum - <a href="https://www.scrum.org/resources/what-scrum-module" target="_blank" rel="noopener noreferer">https://www.scrum.org/resources/what-scrum-module</a></p>
+</li>
+  <li><p>ShapeUp - <a href="https://basecamp.com/shapeup">https://basecamp.com/shapeup</a></p>
+</li>
+</ul>
+<ul>
+  <li>Lukas Linhart <strong>- </strong><a href="https://almad.blog/essays/">https://almad.blog/essays/</a><strong> </strong></li>
+  <li><a href="https://www.comicagile.net/comic/how-to-become-an-agile-coach-2/" target="_blank" rel="noopener noreferer">https://www.comicagile.net/comic/how-to-become-an-agile-coach-2/</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/10---S-Lukem-Linhartem-o-Scrumu-e2dhbqq</link>
+			<guid isPermaLink="false">2f429958-a3b2-49c8-ba03-a01456ec8698</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Thu, 21 Dec 2023 13:58:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/80309530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-21%2F31a66cb6-797e-0e5b-2ae2-cce83afd8cf4.mp3" length="41854374" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Vítejte u poslechu podcastu “You Build It You Run It”. Podcast o všem co potřebujete vědět když chcete provozovat globální internetovou službu. Dnešní díl je speciální, protože kromě mě, Vildy, a Láďi, na které jste zvyklí se k nám přidá host. Tím je náš kamarád Lukáš Linhart neboli Almad. Almad byl prvním zaměstnancem Apiary, zastával tam funkci CTO a hlavně nás najal. Má zkušenosti s vývojem, vedením projektů i se zodpovědností za produkt jako takový a hodně se zabývá produktivitou týmů. Právě s Almadem se budeme bavit o SCRUMu.&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;p&gt;Agile manifesto - &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;https://agilemanifesto.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;&lt;p&gt;Scrum - &lt;a href=&quot;https://www.scrum.org/resources/what-scrum-module&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.scrum.org/resources/what-scrum-module&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+  &lt;li&gt;&lt;p&gt;ShapeUp - &lt;a href=&quot;https://basecamp.com/shapeup&quot;&gt;https://basecamp.com/shapeup&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lukas Linhart &lt;strong&gt;- &lt;/strong&gt;&lt;a href=&quot;https://almad.blog/essays/&quot;&gt;https://almad.blog/essays/&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.comicagile.net/comic/how-to-become-an-agile-coach-2/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.comicagile.net/comic/how-to-become-an-agile-coach-2/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:43:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[9 - Panel discussion at Pycon CZ 2023]]></title>
+			<description><![CDATA[<ul>
+ <li>Záznam z panelové diskuze na Pycon CZ 2023 (anglicky)</li>
+ <li>Video záznam - <a href="https://www.youtube.com/watch?v=xFn0sARWvHU" target="_blank" rel="noopener noreferer">https://www.youtube.com/watch?v=xFn0sARWvHU</a></li>
+<p>Mluvime s Naďou Jašíkovou, která je SRE veteránka z OCI a Karlem Minaříkem, který strávil skoro 10 let v Elasticu.</p>
+<p><br></p>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/9---Panel-discussion-at-Pycon-CZ-2023-e2cfh2o</link>
+			<guid isPermaLink="false">74fb8c7b-7c28-4951-88ca-e51569d40b4e</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Mon, 27 Nov 2023 15:39:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/79200792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-27%2Fd056efd3-4d73-902e-3996-c8db1149a696.mp3" length="46330684" type="audio/mpeg"/>
+			<itunes:summary>&lt;ul&gt;
+ &lt;li&gt;Záznam z panelové diskuze na Pycon CZ 2023 (anglicky)&lt;/li&gt;
+ &lt;li&gt;Video záznam - &lt;a href=&quot;https://www.youtube.com/watch?v=xFn0sARWvHU&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://www.youtube.com/watch?v=xFn0sARWvHU&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;Mluvime s Naďou Jašíkovou, která je SRE veteránka z OCI a Karlem Minaříkem, který strávil skoro 10 let v Elasticu.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:48:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[8 - DevOps Report a DORA metrics]]></title>
+			<description><![CDATA[<p>Dnešní díl bude hlavně o tom jak dobře a rychle dostaneme změny do produkce. Jak poznáte, že to děláte dobře a co měřit aby to tak zůstalo. Neboli když neměříš tak nevíš a neřešíš.</p>
+<p><br></p>
+<ul>
+ <li><a href="https://dora.dev/" target="_blank" rel="noopener noreferer">Dora community</a></li>
+ <li><a href="https://services.google.com/fh/files/misc/2022_state_of_devops_report.pdf" target="_blank" rel="noopener noreferer">DevOps Report v PDF</a><br></li>
+ <li><a href="https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance" target="_blank" rel="noopener noreferer">Google Cloud How implement DORA metrics</a></li>
+ <li><a href="https://itrevolution.com/product/accelerate/" target="_blank" rel="noopener noreferer">Kniha Accelerate</a></li>
+ <li><a href="https://lifecycle.keptn.sh/" target="_blank" rel="noopener noreferer">Project Keptn na měření DORA metrics v K8S</a></li>
+ <li><a href="https://www.pagerduty.com/blog/strengthen-your-dora-metrics-with-pagerduty/" target="_blank" rel="noopener noreferer">PagerDuty a DORA Metrics</a></li>
+  <li><a href="https://linearb.io/blog/dora-metrics-weve-been-using-them-wrong" target="_blank" rel="noopener noreferer">LinearB a DORA Metrics</a></li>
+</ul>
+<p><br></p>
+<p>Třetí živá panelová diskuze, tentokráte bude v rámci <a href="https://cz.pycon.org" target="_blank" rel="noopener noreferer">Pyconu</a> který se koná 15.-16. září v Praze. Budeme mluvit s Naďou Jašíkovou, která je SRE veteránka z OCI a Karlem Minaříkem, který strávil skoro 10 let v Elasticu.</p>
+<p><br></p>
+
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/8---DevOps-Report-a-DORA-metrics-e283dhk</link>
+			<guid isPermaLink="false">8acdbb8d-e1d1-409d-b48a-0c13a5ba600f</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Mon, 14 Aug 2023 13:36:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/74609652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-14%2F27cf86f2-1d0a-97ac-fb71-fbc44dcd7632.mp3" length="25538893" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Dnešní díl bude hlavně o tom jak dobře a rychle dostaneme změny do produkce. Jak poznáte, že to děláte dobře a co měřit aby to tak zůstalo. Neboli když neměříš tak nevíš a neřešíš.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://dora.dev/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Dora community&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://services.google.com/fh/files/misc/2022_state_of_devops_report.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;DevOps Report v PDF&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Google Cloud How implement DORA metrics&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://itrevolution.com/product/accelerate/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Kniha Accelerate&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://lifecycle.keptn.sh/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Project Keptn na měření DORA metrics v K8S&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.pagerduty.com/blog/strengthen-your-dora-metrics-with-pagerduty/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;PagerDuty a DORA Metrics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linearb.io/blog/dora-metrics-weve-been-using-them-wrong&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;LinearB a DORA Metrics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Třetí živá panelová diskuze, tentokráte bude v rámci &lt;a href=&quot;https://cz.pycon.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Pyconu&lt;/a&gt; který se koná 15.-16. září v Praze. Budeme mluvit s Naďou Jašíkovou, která je SRE veteránka z OCI a Karlem Minaříkem, který strávil skoro 10 let v Elasticu.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[7 - Incident Antipatterns]]></title>
+			<description><![CDATA[<p>V dnešním díle budeme pokračovat v incidentech z minulého dílu. V tomto díle se zaměříme na to co nedělat.</p>
+<p><br></p>
+<p>Incident Antipatterns</p>
+<ul>
+ <li><a href="https://response.pagerduty.com/resources/anti_patterns/">https://response.pagerduty.com/resources/anti_patterns/</a></li>
+</ul>
+<p>Training provided by PD </p>
+<ul>
+ <li><a href="https://university.pagerduty.com/page/instructor-led-training">https://university.pagerduty.com/page/instructor-led-training</a></li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/7---Incident-Antipatterns-e26s3t7</link>
+			<guid isPermaLink="false">6cf1c7f3-6c9b-4870-8c0d-d1081cc3a968</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Wed, 12 Jul 2023 15:42:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/73321831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-12%2Ffe813ee1-83c4-6e91-afae-c9e7327ac6c8.mp3" length="26089327" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;V dnešním díle budeme pokračovat v incidentech z minulého dílu. V tomto díle se zaměříme na to co nedělat.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Incident Antipatterns&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://response.pagerduty.com/resources/anti_patterns/&quot;&gt;https://response.pagerduty.com/resources/anti_patterns/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Training provided by PD &lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://university.pagerduty.com/page/instructor-led-training&quot;&gt;https://university.pagerduty.com/page/instructor-led-training&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[6 - Incident handling, hope is not a strategy]]></title>
+			<description><![CDATA[<p>V dnešním díle se budeme zabývat tím černým scénářem kdy služba nefunguje jak má nebo něco jiného je špatně. Co s tim jak to vyřešit rychle čistě a bez krve? O tom, že štěstí přeje připraveným a že ta hlavní otázka není jestli se to rozbije, ale kdy a co budeme dělat pak.</p>
+<p><br></p>
+<p>Hope is not Strategy - <a href="https://sre.google/sre-book/introduction/">https://sre.google/sre-book/introduction/</a></p>
+<p>PagerDuty Incident Response - <a href="https://response.pagerduty.com/">https://response.pagerduty.com/</a></p>
+<p>Executive Swoop and Poop - <a href="https://response.pagerduty.com/training/courses/incident_response/#do-you-wish-to-take-command">https://response.pagerduty.com/training/courses/incident_response/#do-you-wish-to-take-command</a></p>
+<p><br></p>
+<p>Nezapoměňte nás sledovat na Mastodonu - <a href="https://mastodonczech.cz/@ybyr" target="_blank" rel="noopener noreferer">https://mastodonczech.cz/@ybyr</a></p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/6---Incident-handling--hope-is-not-a-strategy-e25n02l</link>
+			<guid isPermaLink="false">5696a4d6-4449-49cd-833d-027d9476be6b</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Wed, 14 Jun 2023 05:46:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/72105493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-14%2F1ddaba4d-0e0e-c39a-ad1d-cc5fee1255c8.mp3" length="30429845" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;V dnešním díle se budeme zabývat tím černým scénářem kdy služba nefunguje jak má nebo něco jiného je špatně. Co s tim jak to vyřešit rychle čistě a bez krve? O tom, že štěstí přeje připraveným a že ta hlavní otázka není jestli se to rozbije, ale kdy a co budeme dělat pak.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Hope is not Strategy - &lt;a href=&quot;https://sre.google/sre-book/introduction/&quot;&gt;https://sre.google/sre-book/introduction/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PagerDuty Incident Response - &lt;a href=&quot;https://response.pagerduty.com/&quot;&gt;https://response.pagerduty.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Executive Swoop and Poop - &lt;a href=&quot;https://response.pagerduty.com/training/courses/incident_response/#do-you-wish-to-take-command&quot;&gt;https://response.pagerduty.com/training/courses/incident_response/#do-you-wish-to-take-command&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nezapoměňte nás sledovat na Mastodonu - &lt;a href=&quot;https://mastodonczech.cz/@ybyr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://mastodonczech.cz/@ybyr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[5 - On-Call: Jak to udělat správně]]></title>
+			<description><![CDATA[<p> Z You build it you run it se dneska budeme i nadále bavit o té Run It části  a hlavně o tom jak poznáte, že děláte on-call dobře, udržitelně a že plní účel. Taky se podíváme na to, jaké nástroje vám mohou pomoci a bez kterých se fakt neobejdete.</p>
+<p><br></p>
+<ul>
+ <li>Metriky k On-Callu - <a href="https://www.prskavec.net/courses/how-to-make-oncall/">https://www.prskavec.net/courses/how-to-make-oncall/chapter06/</a></li>
+ <li>Videa z konference Learning from Incident (LFI) - <a href="https://www.youtube.com/playlist?list=PLQmwzq_GIU-idCnJNR4t_aKb0HDCOXfZ1">https://www.youtube.com/playlist?list=PLQmwzq_GIU-idCnJNR4t_aKb0HDCOXfZ1</a></li>
+ <li>Nezapoměňte nás sledovat na Mastodonu - https://mastodonczech.cz/@ybyr</li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/5---On-Call-Jak-to-udlat-sprvn-e23gamj</link>
+			<guid isPermaLink="false">b39071ac-e843-4de8-8398-6be6595f65c2</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Thu, 04 May 2023 15:28:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/69789843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-4%2Fba03baf1-52f4-ad82-b055-4328c73f51c9.mp3" length="27660435" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt; Z You build it you run it se dneska budeme i nadále bavit o té Run It části  a hlavně o tom jak poznáte, že děláte on-call dobře, udržitelně a že plní účel. Taky se podíváme na to, jaké nástroje vám mohou pomoci a bez kterých se fakt neobejdete.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Metriky k On-Callu - &lt;a href=&quot;https://www.prskavec.net/courses/how-to-make-oncall/&quot;&gt;https://www.prskavec.net/courses/how-to-make-oncall/chapter06/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Videa z konference Learning from Incident (LFI) - &lt;a href=&quot;https://www.youtube.com/playlist?list=PLQmwzq_GIU-idCnJNR4t_aKb0HDCOXfZ1&quot;&gt;https://www.youtube.com/playlist?list=PLQmwzq_GIU-idCnJNR4t_aKb0HDCOXfZ1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Nezapoměňte nás sledovat na Mastodonu - https://mastodonczech.cz/@ybyr&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[4 - Když nejede Seznam.cz tak nejede český internet]]></title>
+			<description><![CDATA[<p>You build it you run it znamená, že někdo se stará, aby služba běžela dobře 24x7x365. To znamená, že někdo je připravený zasáhnout v neděli ve 4 ráno. O tom jak zavést takový režim, co to obnáší a jak si to zorganizovat se budeme bavit v tomhle díle.</p>
+<p>
+<ol>
+<li>Pager - <a href="https://cs.wikipedia.org/wiki/Pager">https://cs.wikipedia.org/wiki/Pager</a></li>
+<li>PagerDuty - <a href="https://www.pagerduty.com/">https://www.pagerduty.com/</a></li>
+<li>Roundtable na WebExpu - <a href="https://webexpo.net/sessions/roundtable-discussion-you-build-it-you-run-it/">https://webexpo.net/sessions/roundtable-discussion-you-build-it-you-run-it</a></li>
+<li>Webexpo 2023 - 20% sleva na vstupenky s kódem "LadaPrskavec"</li>
+<li>How to design On-Call: <a href="https://www.prskavec.net/courses/how-to-make-oncall">https://www.prskavec.net/courses/how-to-make-oncall</a></li>
+</ol>
+</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/4---Kdy-nejede-Seznam-cz-tak-nejede-esk-internet-e225msl</link>
+			<guid isPermaLink="false">b82a0dd4-a3d1-4af7-856e-ca79ab7cc93e</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Tue, 11 Apr 2023 08:45:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/68393301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-11%2F6339bd9b-e1a7-bb24-8590-735b19ba7bce.mp3" length="27497476" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;You build it you run it znamená, že někdo se stará, aby služba běžela dobře 24x7x365. To znamená, že někdo je připravený zasáhnout v neděli ve 4 ráno. O tom jak zavést takový režim, co to obnáší a jak si to zorganizovat se budeme bavit v tomhle díle.&lt;/p&gt;
+&lt;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Pager - &lt;a href=&quot;https://cs.wikipedia.org/wiki/Pager&quot;&gt;https://cs.wikipedia.org/wiki/Pager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PagerDuty - &lt;a href=&quot;https://www.pagerduty.com/&quot;&gt;https://www.pagerduty.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Roundtable na WebExpu - &lt;a href=&quot;https://webexpo.net/sessions/roundtable-discussion-you-build-it-you-run-it/&quot;&gt;https://webexpo.net/sessions/roundtable-discussion-you-build-it-you-run-it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Webexpo 2023 - 20% sleva na vstupenky s kódem &quot;LadaPrskavec&quot;&lt;/li&gt;
+&lt;li&gt;How to design On-Call: &lt;a href=&quot;https://www.prskavec.net/courses/how-to-make-oncall&quot;&gt;https://www.prskavec.net/courses/how-to-make-oncall&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[3 - Rychlá zpětná vazba je o co tu jde]]></title>
+			<description><![CDATA[<p>Jak se vývoj posunul za posledních 30 let od software pro hardware až po vývoj pro webové služby.</p>
+<ul>
+ <li>Fred Brooks - The Mythical Man-Month: Essays on Software Engineering (1975) - <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">https://en.wikipedia.org/wiki/The_Mythical_Man-Month</a></li>
+ <li>Není to usenix, ale i tak je to dobré čtení: Landings over Launches - <a href="https://blog.devgenius.io/landings-over-launches-how-google-thinks-about-successful-products-f8b32d0536ee"><u>https://blog.devgenius.io/landings-over-launches-how-google-thinks-about-successful-products-f8b32d0536ee</u></a></li>
+ <li>Agile Manifesto - <a href="https://agilemanifesto.org/">https://agilemanifesto.org/</a></li>
+ <li>Kanban - <a href="https://cs.wikipedia.org/wiki/Kanban">https://cs.wikipedia.org/wiki/Kanban</a></li>
+ <li>Scrum - <a href="https://www.scrum.org/resources/what-is-scrum"><u>https://www.scrum.org/resources/what-is-scrum</u></a></li>
+ <li>ShapeUp - <a href="https://basecamp.com/shapeup"><u>https://basecamp.com/shapeup</u></a></li>
+  <li>Platform Engineering - <a href="https://platformengineering.org/blog/what-is-platform-engineering"><u>https://platformengineering.org/blog/what-is-platform-engineering</u></a></li>
+</ul>
+<p>Něco na závěr</p>
+<ul>
+  <li>Sledovat nás můžete na Mastodonu, podcast má adresu <a href="https://fosstodon.org/@ybyr"><u>https://fosstodon.org/@ybyr</u></a></li>
+  <li>Na našem webu <a href="https://ybyr.net/">https://ybyr.net/</a> potom najdete jak nás kontaktovat a taky něco o nás.</li>
+</ul>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/3---Rychl-zptn-vazba-je-o-co-tu-jde-e200l7u</link>
+			<guid isPermaLink="false">da364805-8c03-4b74-bbf9-d79d16592c76</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Tue, 07 Mar 2023 16:53:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/66130622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-7%2Faa4b2341-8ed8-a492-d1ec-0e69a889f250.mp3" length="25531764" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jak se vývoj posunul za posledních 30 let od software pro hardware až po vývoj pro webové služby.&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Fred Brooks - The Mythical Man-Month: Essays on Software Engineering (1975) - &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Mythical_Man-Month&quot;&gt;https://en.wikipedia.org/wiki/The_Mythical_Man-Month&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Není to usenix, ale i tak je to dobré čtení: Landings over Launches - &lt;a href=&quot;https://blog.devgenius.io/landings-over-launches-how-google-thinks-about-successful-products-f8b32d0536ee&quot;&gt;&lt;u&gt;https://blog.devgenius.io/landings-over-launches-how-google-thinks-about-successful-products-f8b32d0536ee&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Agile Manifesto - &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;https://agilemanifesto.org/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Kanban - &lt;a href=&quot;https://cs.wikipedia.org/wiki/Kanban&quot;&gt;https://cs.wikipedia.org/wiki/Kanban&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Scrum - &lt;a href=&quot;https://www.scrum.org/resources/what-is-scrum&quot;&gt;&lt;u&gt;https://www.scrum.org/resources/what-is-scrum&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;ShapeUp - &lt;a href=&quot;https://basecamp.com/shapeup&quot;&gt;&lt;u&gt;https://basecamp.com/shapeup&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Platform Engineering - &lt;a href=&quot;https://platformengineering.org/blog/what-is-platform-engineering&quot;&gt;&lt;u&gt;https://platformengineering.org/blog/what-is-platform-engineering&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Něco na závěr&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sledovat nás můžete na Mastodonu, podcast má adresu &lt;a href=&quot;https://fosstodon.org/@ybyr&quot;&gt;&lt;u&gt;https://fosstodon.org/@ybyr&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Na našem webu &lt;a href=&quot;https://ybyr.net/&quot;&gt;https://ybyr.net/&lt;/a&gt; potom najdete jak nás kontaktovat a taky něco o nás.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[2 - Ohlédnutí za panelovou diskuzí v Ataccamě]]></title>
+			<description><![CDATA[<p>19. ledna 2023 jsme pořádali panelovou diskusi v Ataccamě. Díky všem, kdo jste dorazili. Hosty byli Roman Pichlík z Ataccamy, Jirka Brunclík z Product Boardu, Borek Bernard z Shoptetu a samozřejmě taky Vilda s Láďou. Pro ty z vás, kdo tam nemohl být v téhle epizodě shrnujeme to, co tam zaznělo.</p>
+<p><br></p>
+<ul>
+ <li><a href="https://fosstodon.org/@ybyr"><u>https://fosstodon.org/@ybyr</u></a> - náš Mastodon účet pokud nás chcete sledovat a dát nám zpětnou vazbu</li>
+ <li><a href="https://www.meetup.com/prague-golang-meetup/events/291042846/"><u>https://www.meetup.com/prague-golang-meetup/events/291042846/</u></a> - Go meetup 21.2.2023, kde budeme oba přednášet</li>
+  <li><a href="https://youtu.be/GJfgotCGPxI"><u>https://youtu.be/GJfgotCGPxI</u></a> - Záznam z panelové diskuze v Ataccamě (Zoom recording)</li>
+</ul>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/2---Ohldnut-za-panelovou-diskuz-v-Ataccam-e1uvb8f</link>
+			<guid isPermaLink="false">c7b9f3a6-f5e7-4ffc-a9e1-5b153290ae16</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Tue, 14 Feb 2023 16:29:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/65039055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-14%2F707673bf-b7d6-9c15-bef1-fbb01287ff85.mp3" length="25979435" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;19. ledna 2023 jsme pořádali panelovou diskusi v Ataccamě. Díky všem, kdo jste dorazili. Hosty byli Roman Pichlík z Ataccamy, Jirka Brunclík z Product Boardu, Borek Bernard z Shoptetu a samozřejmě taky Vilda s Láďou. Pro ty z vás, kdo tam nemohl být v téhle epizodě shrnujeme to, co tam zaznělo.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://fosstodon.org/@ybyr&quot;&gt;&lt;u&gt;https://fosstodon.org/@ybyr&lt;/u&gt;&lt;/a&gt; - náš Mastodon účet pokud nás chcete sledovat a dát nám zpětnou vazbu&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/prague-golang-meetup/events/291042846/&quot;&gt;&lt;u&gt;https://www.meetup.com/prague-golang-meetup/events/291042846/&lt;/u&gt;&lt;/a&gt; - Go meetup 21.2.2023, kde budeme oba přednášet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/GJfgotCGPxI&quot;&gt;&lt;u&gt;https://youtu.be/GJfgotCGPxI&lt;/u&gt;&lt;/a&gt; - Záznam z panelové diskuze v Ataccamě (Zoom recording)&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11703734/11703734-1672769725728-7eec5f26e4c22.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[1 - You Build It, You Run it]]></title>
+			<description><![CDATA[<p>Vítejte u poslechu podcastu “You Build It You Run It”. Podcast o všem co potřebujete vědět když chcete provozovat globální internetovou službu. Tématem vás provázejí Láďa a Vilda.</p>
+<p><br></p>
+<p>V první epizodě představíme heslo “You build it, you run it” a proč si myslíme, že je to užitečný pohled na provozování služeb. A samozřejmě se také představíme.</p>
+<p><br></p>
+<p>Registrace na event 19.1.2023 - https://www.eventbrite.ca/e/you-build-it-you-run-it-the-right-way-to-run-distributed-systems-tickets-500605463417</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/ybyr/episodes/1---You-Build-It--You-Run-it-e1t0j9p</link>
+			<guid isPermaLink="false">4bd7d557-457e-479c-9c65-75ca36e2e2b1</guid>
+			<dc:creator><![CDATA[Ladislav Prskavec a Vilibald Wanča]]></dc:creator>
+			<pubDate>Mon, 02 Jan 2023 20:02:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/465b1198/podcast/play/62982905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-3%2F29274925-fe0a-a584-a07e-f7af15e61f3c.mp3" length="23107225" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Vítejte u poslechu podcastu “You Build It You Run It”. Podcast o všem co potřebujete vědět když chcete provozovat globální internetovou službu. Tématem vás provázejí Láďa a Vilda.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;V první epizodě představíme heslo “You build it, you run it” a proč si myslíme, že je to užitečný pohled na provozování služeb. A samozřejmě se také představíme.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Registrace na event 19.1.2023 - https://www.eventbrite.ca/e/you-build-it-you-run-it-the-right-way-to-run-distributed-systems-tickets-500605463417&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11703734/11703734-1672771020454-970df06490cce.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
