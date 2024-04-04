@@ -26,12 +26,43 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 				m.content = string(i.desc)
 				log.Printf("Selected item: %v", m.choice)
 			}
+
+		case "b":
+			if m.detail {
+				m.choice = ""
+				m.content = ""
+			}
+		case "p":
+			if m.detail {
+				changeIndex := m.list.Index() + 1
+				if changeIndex <= 0 {
+					changeIndex = 0
+				}
+				m.list.Select(changeIndex)
+				i, ok := m.list.SelectedItem().(item)
+				if ok {
+					m.choice = string(i.title)
+					m.content = string(i.desc)
+				}
+			}
+		case "n":
+			if m.detail {
+				changeIndex := m.list.Index() - 1
+				maxLength := len(m.list.Items())
+				if changeIndex > (maxLength - 1) {
+					changeIndex = maxLength - 1
+				}
+				m.list.Select(changeIndex)
+				i, ok := m.list.SelectedItem().(item)
+				if ok {
+					m.choice = string(i.title)
+					m.content = string(i.desc)
+				}
+			}
 		}
 	}
 
 	var cmd tea.Cmd
-	if !m.detail {
-		m.list, cmd = m.list.Update(msg)
-	}
+	m.list, cmd = m.list.Update(msg)
 	return m, cmd
 }
