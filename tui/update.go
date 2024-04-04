@@ -1,8 +1,6 @@
 package tui
 
 import (
-	"log"
-
 	tea "github.com/charmbracelet/bubbletea"
 )
 
@@ -24,9 +22,8 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 				m.detail = true
 				m.choice = string(i.title)
 				m.content = string(i.desc)
-				log.Printf("Selected item: %v", m.choice)
 			}
-
+			return m, nil
 		case "b":
 			if m.detail {
 				m.choice = ""

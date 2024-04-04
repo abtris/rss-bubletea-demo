@@ -18,6 +18,7 @@ type model struct {
 
 const width = 80
 const height = 40
+const title = "RSS Reader"
 
 func NewModel(data *gofeed.Feed) (*model, error) {
 	var items []list.Item
@@ -34,7 +35,7 @@ func NewModel(data *gofeed.Feed) (*model, error) {
 		items = append(items, i)
 	}
 	l := list.New(items, list.NewDefaultDelegate(), width, height)
-	l.Title = "RSS Reader"
+	l.Title = title
 
 	return &model{
 		list:    l,

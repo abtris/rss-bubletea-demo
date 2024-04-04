@@ -9,7 +9,8 @@ import (
 func (m model) View() string {
 	var s string
 	if len(m.choice) > 0 {
-		s += "## " + m.choice
+		s += "# " + title
+		s += "\n## " + m.choice
 		s += "\n\n"
 		s += m.content
 		renderer, err := glamour.NewTermRenderer(
