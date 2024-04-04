@@ -22,9 +22,9 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 			i, ok := m.list.SelectedItem().(item)
 			if ok {
 				m.choice = string(i.title)
+				m.content = string(i.desc)
 				log.Printf("Selected item: %v", m.choice)
 			}
-			return m, tea.Quit
 		}
 	}
 
