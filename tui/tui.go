@@ -3,7 +3,7 @@ package tui
 import (
 	"log"
 
-	md "github.com/JohannesKaufmann/html-to-markdown"
+	md "github.com/JohannesKaufmann/html-to-markdown/v2"
 	"github.com/charmbracelet/bubbles/list"
 	"github.com/mmcdole/gofeed"
 )
