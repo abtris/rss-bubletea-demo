@@ -1,6 +1,7 @@
 module github.com/abtris/rss-bubbletea
 
 go 1.22.2
+toolchain go1.23.7
 
 require (
 	github.com/JohannesKaufmann/html-to-markdown v1.6.0
@@ -41,8 +42,8 @@ require (
 	github.com/sahilm/fuzzy v0.1.1-0.20230530133925-c48e322e2a8f // indirect
 	github.com/yuin/goldmark v1.7.1 // indirect
 	github.com/yuin/goldmark-emoji v1.0.2 // indirect
-	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
 	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 )
