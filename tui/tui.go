@@ -4,7 +4,7 @@ import (
 	"log"
 
 	md "github.com/JohannesKaufmann/html-to-markdown"
-	"github.com/charmbracelet/bubbles/list"
+	"charm.land/bubbles/v2/list"
 	"github.com/mmcdole/gofeed"
 )
 
