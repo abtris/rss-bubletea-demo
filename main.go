@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/abtris/rss-bubbletea/tui"
-	tea "github.com/charmbracelet/bubbletea"
+	tea "charm.land/bubbletea/v2"
 	"github.com/mmcdole/gofeed"
 )
 
@@ -33,8 +33,8 @@ func main() {
 		defer f.Close()
 	}
 
-	p := tea.NewProgram(model, tea.WithAltScreen(), tea.WithMouseCellMotion())
-	if err := p.Start(); err != nil {
+	p := tea.NewProgram(model)
+	if _, err := p.Run(); err != nil {
 		log.Fatal("start failed: ", err)
 	}
 }

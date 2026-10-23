@@ -3,10 +3,18 @@ package tui
 import (
 	"log"
 
-	"github.com/charmbracelet/glamour"
+	tea "charm.land/bubbletea/v2"
+	"charm.land/glamour/v2"
 )
 
-func (m model) View() string {
+func (m model) View() tea.View {
+	v := tea.NewView(m.render())
+	v.AltScreen = true
+	v.MouseMode = tea.MouseModeCellMotion
+	return v
+}
+
+func (m model) render() string {
 	var s string
 	if len(m.choice) > 0 {
 		s += "# " + title
@@ -14,7 +22,7 @@ func (m model) View() string {
 		s += "\n\n"
 		s += m.content
 		renderer, err := glamour.NewTermRenderer(
-			glamour.WithAutoStyle(),
+			glamour.WithEnvironmentConfig(),
 			glamour.WithWordWrap(width),
 		)
 		if err != nil {
