@@ -7,7 +7,7 @@ require (
 	charm.land/bubbletea/v2 v2.1.3
 	charm.land/glamour/v2 v2.0.1
 	github.com/JohannesKaufmann/html-to-markdown v1.6.0
-	github.com/charmbracelet/x/ansi v0.11.10
+	github.com/charmbracelet/x/ansi v0.12.0
 	github.com/mmcdole/gofeed v1.3.0
 )
 
